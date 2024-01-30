@@ -64,6 +64,8 @@
 
 ### Or1cle
 
+平台未给出题目源码，这里贴上通过报错得到的源码信息：[./Crypto-Or1cle.md](./Crypto-Or1cle.md)
+
 > 蒸馍会是，又是签到! :D
 
 ### Or2cle
